@@ -1,0 +1,20 @@
+{
+  "project_name": "",
+  "plan_version": 1,
+  "plan_created_at": "",
+  "scope_source": "PROJECT_ORIGIN.md",
+  "steps": [
+    {
+      "id": "P001",
+      "phase": "",
+      "goal": "",
+      "status": "pending",
+      "owner": "agent",
+      "approval_required": false,
+      "approval_reason": "",
+      "depends_on": [],
+      "verification": "",
+      "notes": []
+    }
+  ]
+}
