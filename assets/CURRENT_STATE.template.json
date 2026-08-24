@@ -1,0 +1,31 @@
+{
+  "project_name": "",
+  "current_phase": "",
+  "active_step_id": "",
+  "active_step_goal": "",
+  "last_verified_completed_step_id": "",
+  "completed_this_session": [],
+  "changed_files": [],
+  "tests_run": [],
+  "test_results": [],
+  "unresolved_issues": [],
+  "blockers": [],
+  "latest_checkpoint": "",
+  "next_action": "",
+  "next_action_success_check": "",
+  "remaining_high_level_steps": [],
+  "user_decision_required": false,
+  "pending_user_decision": "",
+  "why_user_must_decide": "",
+  "do_not_change": [],
+  "harness_last_result": {
+    "task_sent": "",
+    "what_changed": [],
+    "what_tested": [],
+    "result": "",
+    "unfinished": [],
+    "new_risks": [],
+    "recommended_next_action": ""
+  },
+  "handoff_timestamp": ""
+}
