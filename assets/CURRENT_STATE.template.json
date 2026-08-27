@@ -3,6 +3,9 @@
   "current_phase": "",
   "active_step_id": "",
   "active_step_goal": "",
+  "active_step_progress": "",
+  "active_step_completed_parts": [],
+  "resume_point": "",
   "last_verified_completed_step_id": "",
   "completed_this_session": [],
   "changed_files": [],
@@ -24,6 +27,8 @@
     "what_tested": [],
     "result": "",
     "unfinished": [],
+    "stopping_point": "",
+    "failed_attempts": [],
     "new_risks": [],
     "recommended_next_action": ""
   },
